@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeshi13&show_icons=true)
+### 📊 最近のアクティビティ
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--
 **ikeshi13/ikeshi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
