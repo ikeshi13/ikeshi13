@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikeshi13&show_icons=true)
-### 📊 最近のアクティビティ
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
